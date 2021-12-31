@@ -1,1 +1,1 @@
-# TicTacToe C# Windows Forms
+# TicTacToe - C# Windows Forms
